@@ -1,94 +1,93 @@
-<!-- Encabezado decorativo -->
+<!-- Encabezado animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:8A2BE2&height=200&section=header&text=Rei%20Senpai%20👨‍💻&fontSize=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F58DFF&height=200&section=header&text=Rei%20Senpai%20👨‍💻&fontSize=45&fontColor=ffffff" />
 </p>
 
-<h2 align="center">🎨 FullStack Engineer & UX/UI Designer 🎯</h2>
+<h2 align="center">🎨 FullStack Developer & UX/UI Designer 🌈</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F58DFF&center=true&vCenter=true&width=500&lines=Desarrollador+FullStack+💻;Diseñador+UX%2FUI+creativo+🎨;Apasionado+por+el+detalle+%26+la+experiencia+🚀" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E65CFF&center=true&vCenter=true&width=550&lines=Hola%2C+soy+Rei+Senpai+!+%F0%9F%91%8B;Ingeniero+de+Software+FullStack+💻;Diseñador+UX%2FUI+Creativo+🎨;Amante+del+detalle+%26+la+experiencia+de+usuario+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👋 ¡Hola! Soy **Rei Senpai**
+### 🧠 Sobre mí
 
-Soy un **Ingeniero de Software FullStack** con fuerte enfoque en el **diseño UX/UI**. Me encanta transformar ideas en productos digitales funcionales, accesibles y con una estética clara, moderna y centrada en el usuario.
+¡Hola! Soy **Rei Senpai**, un apasionado **Ingeniero de Software FullStack** con fuerte enfoque en **diseño UX/UI**. Me dedico a crear productos digitales centrados en el usuario, visualmente impactantes y funcionales.
 
-- 🎯 **Especialidades**:
-  - Diseño centrado en el usuario (UX/UI)
-  - Desarrollo frontend y backend moderno
-  - Aplicaciones web interactivas, responsivas y accesibles
-- 🛠️ **Herramientas favoritas**:
-  - Diseño: **Figma**, Balsamiq, Adobe XD
-  - Frontend: **HTML5**, **CSS3**, **JavaScript**, **React**, **Next.js**, **Angular**
-  - Backend: **Java**, **Spring Boot**, **Spring Security**, **Python**
-  - Bases de datos: **MySQL**, **SQLite**
-  - UI Frameworks: **Bootstrap 5**, **TailwindCSS**
+- 💼 **Especialidades**:
+  - Diseño de interfaces (UI) limpias y modernas
+  - Prototipado rápido y pruebas UX
+  - Desarrollo completo (Frontend + Backend)
+
+- 🧰 **Mis herramientas favoritas**:
+  - 🎨 **Diseño UX/UI**: Figma, Balsamiq, Adobe XD
+  - 💻 **Frontend**: HTML5, CSS3, JavaScript, Angular, React, Next.js
+  - 🔧 **Backend**: Java (Spring Boot), Python (Flask), Spring Security
+  - 🗃️ **Bases de Datos**: MySQL, SQLite
+  - 🧩 **Frameworks UI**: Bootstrap, TailwindCSS
 
 ---
 
-### 🧩 Proyectos & Estudios de Caso
+### 🎨 Sección de diseño
 
-| Proyecto | Descripción | Tecnologías | Enlace |
-|---------|-------------|-------------|--------|
-| **SmartVoice** 🎙️ | App tipo móvil para control por voz con diseño moderno y backend en Flask. | Flask, JS, Bootstrap | [🔗 Repositorio](https://github.com/Rei-Senpai/SmartVoice) |
-| **GestureHome** ✋ | Sistema de control del hogar mediante gestos y cámara, pensado para accesibilidad. | JS, OpenCV, HTML/CSS | [🔗 Ver más](#) |
-| **D’Bolívar Gourmet** 🍽️ | Plataforma de gestión para catering, con interfaz UI personalizada. | Angular, Spring Boot | [🔗 Repositorio](#) |
-| **UI Kit Neumorphism Pro** 🌓 | Kit en Figma con componentes UI neumórficos en modo claro y oscuro. | Figma | [🔗 Ver Prototipo](#) |
+🧪 Actualmente estoy trabajando en:
+
+- **🧠 Red de interfaces accesibles UX** para personas con movilidad reducida  
+- **📱 SmartVoice V2** – app de control por voz con estilo móvil  
+- **🌐 Portfolio animado** con scroll dinámico y microinteracciones  
+- **🧩 UI Kits personalizados** en Figma (light/dark neumorphism)
+
+💡 Me inspiro en el minimalismo, neumorfismo, glassmorfismo y diseño centrado en accesibilidad.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rei-Senpai&show_icons=true&theme=dracula&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rei-Senpai&layout=compact&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rei-Senpai&show_icons=true&theme=tokyonight&hide_border=true&title_color=F58DFF&icon_color=F58DFF" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rei-Senpai&layout=compact&theme=tokyonight&hide_border=true&title_color=F58DFF" width="48%"/>
 </p>
 
 ---
 
-### 💼 Portafolio & Redes de diseño
+### 🌍 Portafolio y Redes Creativas
 
-- 🌐 [Portafolio Web](https://tuportafolio.com)  
-- 🎨 [Behance](https://behance.net/tuusuario)  
+- 🖥️ [Portafolio Web](https://tu-portafolio.com)  
+- 🧑‍🎨 [Behance](https://behance.net/tuusuario)  
 - 🏀 [Dribbble](https://dribbble.com/tuusuario)
 
 ---
 
-### 💻 Diseño actual
+### 🔧 Tecnologías y Lenguajes
 
-Proyectos en los que estoy trabajando o experimentando:
-
-- 🧠 **Guía Visual de Accesibilidad** – Diseño UX enfocado en inclusión digital  
-- 🎛️ **SmartVoice V2** – App con login, temas oscuros, comandos personalizados  
-- 🔐 **Sistema seguro de login** con autenticación avanzada y experiencia intuitiva  
-- 🌍 **Portfolio dinámico** con animaciones scroll e integración de proyectos reales  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" title="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="40" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" title="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma" />
+</p>
 
 ---
 
-### 🚀 Lenguajes & Tecnologías que uso
+### 🧠 Frase que me define
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
-</p>
+> *“Diseñar con intención, programar con propósito. Cada línea y cada píxel deben tener sentido.”*
 
 ---
 
 <!-- Pie decorativo -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F58DFF&height=140&section=footer"/>
 </p>
