@@ -3,10 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F58DFF&height=200&section=header&text=Rei%20Senpai%20👨‍💻&fontSize=45&fontColor=ffffff" />
 </p>
 
-<h2 align="center">🎨 FullStack Developer & UX/UI Designer 🌈</h2>
+<h2 align="center">🎨 FullStack Developer & UX/UI Designer</h2>
 
 <p align="center">
-✨ EL PRIME ✨
+✨ Se viene el PRIME ✨
 </p>
 
 ---
