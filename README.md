@@ -6,7 +6,7 @@
 <h2 align="center">🎨 FullStack Developer & UX/UI Designer 🌈</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E65CFF&center=true&vCenter=true&width=550&lines=Hola%2C+soy+Rei+Senpai+!+%F0%9F%91%8B;Ingeniero+de+Software+FullStack+💻;Diseñador+UX%2FUI+Creativo+🎨;Amante+del+detalle+%26+la+experiencia+de+usuario+%E2%9C%A8" alt="Typing SVG" />
+EL PRIME
 </p>
 
 ---
