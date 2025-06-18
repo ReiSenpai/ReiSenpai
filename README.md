@@ -13,7 +13,7 @@
 
 ### 🧠 Sobre mí
 
-¡Hola! Soy **Rei Senpai**, un apasionado **Ingeniero de Software FullStack** con fuerte enfoque en **diseño UX/UI**. Me dedico a crear productos digitales centrados en el usuario, visualmente impactantes y funcionales.
+¡Hola! Soy **Rei Senpai**, un apasionado **Ingeniero de Software FullStack** con fuerte enfoque en **Frontend**.
 
 - 💼 **Especialidades**:
   - Diseño de interfaces (UI) limpias y modernas
