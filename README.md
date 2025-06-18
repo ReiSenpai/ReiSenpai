@@ -51,14 +51,7 @@
 
 ### 📊 GitHub Activity & Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rei-Senpai&show_icons=true&theme=tokyonight&hide_border=true&title_color=F58DFF&icon_color=F58DFF" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rei-Senpai&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rei-Senpai&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rei-Senpai&show_icons=true&theme=tokyonight&hide_border=true&title_color=F58DFF&icon_color=F58DFF" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rei-Senpai&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000" width="48%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rei-Senpai&theme=tokyo-night&hide_border=true&area=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rei-Senpai&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=F58DFF&custom_title=Lenguajes%20más%20usados" width="48%"/> </p>
 
 ---
 
