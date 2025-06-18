@@ -83,7 +83,7 @@ EL PRIME
 
 ### 🧠 Frase que me define
 
-> *“Diseñar con intención, programar con propósito. Cada línea y cada píxel deben tener sentido.”*
+> *“Recuerda que si puedes imaginarlo, puedes programarlo. Todo esta en ti mismo.”*
 
 ---
 
