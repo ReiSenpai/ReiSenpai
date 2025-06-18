@@ -29,7 +29,7 @@
 
 ---
 
-### 🎨 Sección de diseño
+### 🎨 Sección de diseño y animación
 
 🧪 Actualmente estoy trabajando en:
 
@@ -38,26 +38,27 @@
 - **🌐 Portfolio animado** con scroll dinámico y microinteracciones  
 - **🧩 UI Kits personalizados** en Figma (light/dark neumorphism)
 
-💡 Me inspiro en el minimalismo, neumorfismo, glassmorfismo y diseño centrado en accesibilidad.
+🎞️ **Exploro constantemente nuevas tendencias como:**
+
+- ✨ *Typing animations* con scroll reveal (ScrollMagic, GSAP, AOS)
+- 🎯 Interfaces con *microinteracciones reactivas* (hover, click, drag)
+- 💡 Diseño visual basado en *glassmorfismo, neumorfismo* y *accesibilidad*
+- 📽️ Animaciones SVG y loaders personalizados para apps
+
+💡 *“Creo en experiencias digitales que se sienten vivas, no solo funcionales.”*
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rei-Senpai&show_icons=true&theme=tokyonight&hide_border=true&title_color=F58DFF&icon_color=F58DFF" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rei-Senpai&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=F58DFF&custom_title=Lenguajes%20más%20usados" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rei-Senpai&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000" width="48%" />
 </p>
-
----
-
-### 🕒 Hora actual (en tu navegador)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=F58DFF&center=true&vCenter=true&width=350&height=50&lines=Hora+actual:+%3Cscript%3Edocument.write(new+Date().toLocaleTimeString())%3C%2Fscript%3E" alt="reloj" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rei-Senpai&theme=tokyo-night&hide_border=true&area=true" />
 </p>
-
-*⚠️ Nota: GitHub no permite ejecutar JS directamente en el README, pero si usas este código en tu portafolio personal o sitio web, el reloj funcionará correctamente.*
 
 ---
 
