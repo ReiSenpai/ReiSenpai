@@ -6,7 +6,7 @@
 <h2 align="center">🎨 FullStack Developer & UX/UI Designer 🌈</h2>
 
 <p align="center">
-EL PRIME
+✨ EL PRIME ✨
 </p>
 
 ---
@@ -46,8 +46,18 @@ EL PRIME
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rei-Senpai&show_icons=true&theme=tokyonight&hide_border=true&title_color=F58DFF&icon_color=F58DFF" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rei-Senpai&layout=compact&theme=tokyonight&hide_border=true&title_color=F58DFF" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rei-Senpai&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=F58DFF&custom_title=Lenguajes%20más%20usados" width="48%"/>
 </p>
+
+---
+
+### 🕒 Hora actual (en tu navegador)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=F58DFF&center=true&vCenter=true&width=350&height=50&lines=Hora+actual:+%3Cscript%3Edocument.write(new+Date().toLocaleTimeString())%3C%2Fscript%3E" alt="reloj" />
+</p>
+
+*⚠️ Nota: GitHub no permite ejecutar JS directamente en el README, pero si usas este código en tu portafolio personal o sitio web, el reloj funcionará correctamente.*
 
 ---
 
@@ -83,7 +93,7 @@ EL PRIME
 
 ### 🧠 Frase que me define
 
-> *“Recuerda que si puedes imaginarlo, puedes programarlo. Todo esta en ti mismo.”*
+> *“Recuerda que si puedes imaginarlo, puedes programarlo. Todo está en ti mismo.”*
 
 ---
 
