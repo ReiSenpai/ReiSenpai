@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Construyendo+sistemas+completos+%F0%9F%9A%80;Del+wireframe+al+despliegue+%E2%98%81%EF%B8%8F;Preparado+para+El+PRIME+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Construyendo+sistemas+completos;Del+wireframe+al+despliegue;Preparado+para+El+PRIME" alt="Typing SVG" />
 
 <br/>
 
