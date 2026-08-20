@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ReiSenpai&color=38BDF8&style=flat-square&label=Visitas+al+perfil" alt="Profile views"/>
+<img src="https://anthonydavid.netlify.app/" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/ReiSenpai?label=Seguidores&style=flat-square&color=38BDF8" alt="Followers"/>
 
 </div>
